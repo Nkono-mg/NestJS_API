@@ -8,10 +8,8 @@ describe('TagController', () => {
     const module: TestingModule = await Test.createTestingModule({
       controllers: [TagController],
     }).compile();
-
     controller = module.get<TagController>(TagController);
   });
-
   it('should be defined', () => {
     expect(controller).toBeDefined();
   });
