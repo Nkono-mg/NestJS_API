@@ -1,6 +1,6 @@
 # NestJS API
 
-## Les outils utilisés:
+## Les technos utilisés:
 
 1. NestJS
 2. TypeORM
@@ -21,3 +21,22 @@
 1.
 2.
 3.
+
+## Les endpoints:
+
+### Users:
+
+1.
+2.
+
+### Articles
+
+1.
+
+### Tags
+
+1.
+
+### MetaOptions
+
+1.
