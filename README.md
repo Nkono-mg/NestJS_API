@@ -24,19 +24,19 @@
 
 ## Les endpoints:
 
-### Users:
+- Users:
 
 1.
 2.
 
-### Articles
+- Articles
 
 1.
 
-### Tags
+- Tags
 
 1.
 
-### MetaOptions
+- MetaOptions
 
 1.
